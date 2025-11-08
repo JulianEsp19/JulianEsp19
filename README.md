@@ -35,35 +35,28 @@ Busco integrarme a un equipo de desarrollo para fortalecer mis habilidades en **
 ### 🛒 E-commerce con PHP y XAMPP
 Sistema de comercio electrónico con gestión de usuarios, productos y generación de pedidos en PDF enviados por correo electrónico.  
 **Tecnologías:** PHP, SQL, XAMPP  
-📂 [Ver proyecto](./projects/ecommerce-php-xampp)
+📂 [Ver proyecto](https://github.com/JulianEsp19/paginaWeb)
 
 ---
 
 ### ⚙️ Programación paralela en Java
 Simulación de procesos concurrentes con hilos y memoria compartida.  
 **Tecnologías:** Java  
-📂 [Ver proyecto](./projects/java-concurrencia)
-
----
-
-### 📱 Aplicaciones educativas en Android
-Aplicaciones móviles con inicio de sesión, Firebase y manejo de medios visuales.  
-**Tecnologías:** Java, Android Studio, Firebase  
-📂 [Ver proyecto](./projects/android-educativo)
+📂 [Ver proyecto](https://github.com/JulianEsp19/Programacion_Paralela)
 
 ---
 
 ### 🪟 Interfaces gráficas con Java (Swing)
 Aplicaciones interactivas educativas con eventos y paneles dinámicos.  
 **Tecnologías:** Java (Swing)  
-📂 [Ver proyecto](./projects/java-swing-gui)
+📂 [Ver proyecto](https://github.com/JulianEsp19/Proyectos_programacion_orientado_a_eventos)
 
 ---
 
 ### 🧠 Gráficos 2D y 3D en Python
 Visualizaciones gráficas para modelar conceptos de computación gráfica.  
 **Tecnologías:** Python  
-📂 [Ver proyecto](./projects/python-graficos-3d)
+📂 [Ver proyecto](https://github.com/JulianEsp19/GraficasPorComputadora2Dy3D)
 
 ---
 
