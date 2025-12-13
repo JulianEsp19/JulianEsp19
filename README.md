@@ -1,4 +1,4 @@
-# 👨‍💻 Jesús Julián Esparza Rosas
+# Jesús Julián Esparza
 
 **Desarrollador de Software Junior | Backend & Frontend | Java · PHP · Python**
 
